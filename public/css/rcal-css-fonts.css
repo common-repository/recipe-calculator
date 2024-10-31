@@ -1,0 +1,27 @@
+/* Use Google webfont Roboto and Ionicons icons. These styles are minified and inlined in the head via functions.php file - recipe-calculator/includes/functions.php*/
+.ingredients, .portions-num, .instructions{
+    font-family: Roboto, sans-serif;
+}
+
+.ingredients h2, .instructions h2 {
+    font-family: 'Roboto Black', sans-serif;
+}
+.ingredients li.checked-ingredients:before {
+    content: "\f3fd";
+    color: #000000;
+    background-color: transparent;
+    font-family: "Ionicons";
+    font-size: 25px;
+    font-weight: bold;
+    height: 22px;
+    position: absolute; 
+    margin-left: -20px;
+    margin-top: 8px;
+    background-size: 30px;
+}
+.control-ingredients button{ 
+    border: 0;
+} 
+.control-ingredients{ 
+    margin-top: -10px; 
+}

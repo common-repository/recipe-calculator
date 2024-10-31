@@ -1,0 +1,154 @@
+# Translation of 
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: BUG-EMAIL-ADDR <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2017-01-23 00:30+0100\n"
+"PO-Revision-Date: 2017-01-23 00:29+0100\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1;  plural=EXPRESSION;\n"
+"X-Generator: Poedit 1.8.9\n"
+
+#: includes/metaboxes.php:28
+msgid "Ingredients"
+msgstr ""
+
+#: includes/metaboxes.php:36
+msgid "Portions number"
+msgstr ""
+
+#: includes/metaboxes.php:38 public/rcal.php:15
+msgid "portions"
+msgstr ""
+
+#: includes/metaboxes.php:46
+msgid "Ingredient {#}"
+msgstr ""
+
+#: includes/metaboxes.php:47
+msgid "Add Another Ingredient"
+msgstr ""
+
+#: includes/metaboxes.php:48 includes/metaboxes.php:143
+msgid "Remove"
+msgstr ""
+
+#: includes/metaboxes.php:53
+msgid "Quantity"
+msgstr ""
+
+#: includes/metaboxes.php:55
+msgid "<strong>For non-integers</strong> enter dot(.) separated values - e.g. 1.5"
+msgstr ""
+
+#: includes/metaboxes.php:62 includes/metaboxes.php:81
+msgid "Measurement Unit"
+msgstr ""
+
+#: includes/metaboxes.php:65 includes/metaboxes.php:84
+msgid "Select"
+msgstr ""
+
+#: includes/metaboxes.php:67 includes/metaboxes.php:86
+msgid "none"
+msgstr ""
+
+#: includes/metaboxes.php:68
+msgid "lbs"
+msgstr ""
+
+#: includes/metaboxes.php:69
+msgid "oz"
+msgstr ""
+
+#: includes/metaboxes.php:70
+msgid "fl oz"
+msgstr ""
+
+#: includes/metaboxes.php:71
+msgid "pt"
+msgstr ""
+
+#: includes/metaboxes.php:72
+msgid "qt"
+msgstr ""
+
+#: includes/metaboxes.php:73 includes/metaboxes.php:91
+msgid "tsp"
+msgstr ""
+
+#: includes/metaboxes.php:74 includes/metaboxes.php:92
+msgid "tbsp"
+msgstr ""
+
+#: includes/metaboxes.php:75 includes/metaboxes.php:93
+msgid "cup"
+msgstr ""
+
+#: includes/metaboxes.php:76 includes/metaboxes.php:94
+msgid "cups"
+msgstr ""
+
+#: includes/metaboxes.php:87
+msgid "kg"
+msgstr ""
+
+#: includes/metaboxes.php:88
+msgid "g"
+msgstr ""
+
+#: includes/metaboxes.php:89
+msgid "L"
+msgstr ""
+
+#: includes/metaboxes.php:90
+msgid "ml"
+msgstr ""
+
+#: includes/metaboxes.php:100
+msgid "Ingredient name"
+msgstr ""
+
+#: includes/metaboxes.php:106
+msgid "Ingredient Plural name"
+msgstr ""
+
+#: includes/metaboxes.php:109
+msgid "Fill only if Measurement Unit = None"
+msgstr ""
+
+#: includes/metaboxes.php:131
+msgid "Preparation"
+msgstr ""
+
+#: includes/metaboxes.php:141
+msgid "Step {#}"
+msgstr ""
+
+#: includes/metaboxes.php:142
+msgid "Add Another Step"
+msgstr ""
+
+#: includes/metaboxes.php:149
+msgid "Instruction "
+msgstr ""
+
+#: public/rcal.php:15
+msgid "Ingredients for"
+msgstr ""
+
+#: public/rcal.php:15
+msgid "portion"
+msgstr ""
+
+#: public/rcal.php:86
+msgid "Instructions:"
+msgstr ""
